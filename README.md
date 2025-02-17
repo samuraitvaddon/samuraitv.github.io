@@ -6,7 +6,7 @@ Ir para o Kodi gestor de ficheiros.
 
 Clicar em "Adicionar fonte"
 
-O endereço para a fonte é https://samuraitv.github.io (Dar o nome de "samurai tv").
+O endereço para a fonte é https://samuraitvaddon.github.io (Dar o nome de "samurai tv").
 
 Ir para "Addons"
 
